@@ -1,0 +1,6 @@
+export const ROUTE_CHANGED = 'router/ROUTE_CHANGED'
+export const UPDATE_ACCOUNT = 'UPDATE_ACCOUNT'
+export const UPDATE_CATALOG = 'UPDATE_CATALOG'
+export const UPDATE_ADMIN = 'UPDATE_ADMIN'
+export const ADD_PRODUCT = 'ADD_PRODUCT'
+export const CLEAR_PRODUCTS = 'CLEAR_PRODUCTS'
